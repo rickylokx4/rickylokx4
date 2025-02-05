@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+# Welcome to my Git Hub Account 
+My name is Ricardo Salazar, I am a student at BYU University, in this repository I will be leaving all the tasks and assignments from the different courses I take.
+
+The programming languages ​​I have taken are:
+* Python
+* C#
+* Html
+* Css
+* JavaScript
+
+
 <!--
 **rickylokx4/rickylokx4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
